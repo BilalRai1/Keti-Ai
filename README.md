@@ -25,10 +25,10 @@ Kite Ai BOT
 
 1. **Clone The Repositories:**
    ```bash
-   git clone https://github.com/vonssy/KiteAi-BOT.git
+   git clone https://github.com/BilalRai1/Keti-Ai.git
    ```
    ```bash
-   cd KiteAi-BOT
+   cd Keti-Ai
    ```
 
 2. **Install Requirements:**
